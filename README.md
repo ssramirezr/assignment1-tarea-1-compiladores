@@ -2,10 +2,13 @@
 
 Group Members: 
 - Emanuel Ossa
+  
 Version of the operating system: 
 - Dell Windows 10
+  
 Programming Language:
 - Python
+  
 Tools:
 - Used Gemini to help me. (Not to do everything).
 
